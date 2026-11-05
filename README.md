@@ -4,7 +4,7 @@ I'm an Information Technology student and healthcare operations professional bui
 
 ## Current focus
 
-- Cloud infrastructure and Azure fundamentals
+- AWS cloud foundations (IAM, Amazon S3, EC2, EFS, and RDS) alongside Azure fundamentals
 - Python automation for repeatable IT tasks
 - Networking, system administration, and access control
 - Secure technology in healthcare environments
@@ -17,11 +17,17 @@ I'm an Information Technology student and healthcare operations professional bui
 | [Network Security Lab](https://github.com/kbpacket/network-security-lab) | Segmentation, identity controls, risk assessment, and incident response |
 | [Cloud Portfolio Site](https://github.com/kbpacket/cloud-portfolio-site) | Responsive React development and a validated cloud deployment workflow |
 
+## AWS Academy learning log
+
+- **Completed and graded coursework:** IAM and shared-responsibility concepts (Module 3); Amazon S3 static website challenge (Module 4).
+- **Current coursework:** Amazon EC2 and Elastic File System (Module 5), followed by Amazon RDS database provisioning (Module 6).
+- **Evidence approach:** Record lab objectives, architecture decisions, security considerations, screenshots with sensitive details removed, and verification results. Coursework is not represented as a production deployment or professional certification.
+
 ## Education and growth
 
 - B.S. Information Technology, Networking and Cloud Computing concentration
 - Honors Pathway student
-- Building hands-on experience in Python, SQL, Linux, Azure, networking, and cybersecurity
+- Building hands-on experience in Python, SQL, Linux, AWS, Azure, networking, and cybersecurity
 
 ## How I work
 
